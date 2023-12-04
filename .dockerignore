@@ -1,0 +1,17 @@
+.git/
+.github/
+target/
+
+# Unrelated folders
+docs/
+
+# Slide files
+**/*.ndpi
+**/*.isyntax
+**/*.tif
+**/*.svs
+**/*.wfml
+**/*.jpg
+
+# destra packages
+**/*.tgz
